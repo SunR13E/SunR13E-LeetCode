@@ -1,4 +1,0 @@
-package hard
-
-class empty {
-}
